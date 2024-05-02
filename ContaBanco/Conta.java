@@ -1,3 +1,5 @@
+package ContaBanco;
+
 public class Conta {
 
     private Integer numero;

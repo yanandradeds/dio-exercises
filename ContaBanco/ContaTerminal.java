@@ -1,3 +1,5 @@
+package ContaBanco;
+
 import java.util.Scanner;
 
 public class ContaTerminal {
